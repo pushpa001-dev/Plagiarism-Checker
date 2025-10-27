@@ -55,4 +55,4 @@ MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
-ALLOWED_HOSTS = ['https://plagiarism-checker-b23o.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://plagiarism-checker-b23o.onrender.com', 'localhost', '127.0.0.1' , '192.168.1.12']
